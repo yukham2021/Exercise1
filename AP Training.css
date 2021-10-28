@@ -1,0 +1,28 @@
+html{
+    background-color: rgb(222, 227, 238);
+}
+body{
+    width: 800px;
+margin: auto;
+overflow: scroll;
+visibility: inherit;
+opacity: 0.5;
+border: 5px solid greenyellow;
+padding: 5px 10px 10px 30px;
+margin-top: 30px;
+}
+h1{
+    text-transform: capitalize;
+    text-shadow: indigo;
+    float: right;
+}
+em{
+    color: red;
+}
+a{
+    text-decoration: none;
+}
+.p2{
+    text-decoration: line-through;
+}
+
